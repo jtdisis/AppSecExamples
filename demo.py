@@ -5,7 +5,7 @@ def func1():
 	return
 
 def func2(arg1):
-	print arg
+	print arg1
 	return
 
 def main():
