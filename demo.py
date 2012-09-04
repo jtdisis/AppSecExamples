@@ -1,7 +1,7 @@
 import sys
 
 def func1():
-	print "HELLO WORLD"
+	print "HELLO WORLD!"
 	return
 
 def func2(arg1):
